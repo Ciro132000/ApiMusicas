@@ -8,8 +8,8 @@ const loginCtrl = async(req, res) => {
     try {
 
         const mockUser = {
-            name: 'Leifer',
-            email: 'test@test.com',
+            name: 'Ciro',
+            email: 'ciro@candiotti.com',
             password: '12345678',
             avatar: 'https://i.imgur.com/0mZ4PUR.png'
         }
